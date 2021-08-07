@@ -8,7 +8,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println("Movie info service running");
+		System.out.println("Movie info service running...");
 	}
 
 }
