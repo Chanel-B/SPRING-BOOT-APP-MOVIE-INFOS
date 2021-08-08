@@ -27,6 +27,15 @@ DAY 2 :
 			*WHAT IS AN API ? 
 				-An application programming interface, or API 
 				This allows services and products to communicate with each other and leverage each other’s data and functionality through a documented interface. Developers don't need to know how an API is implemented;
+
+			NB : In microservices the copying of classes from one package or 
+			project to another is allow while in Monolitic programming it is nont allow.
+
+			NB : In microservices added/creating a new field people/members do not mind but if you are changing/deleting then you have to let people know about that.
+
+			NB : In each class model make sure you add an empty constructor.
+
+			ERROR : 500 simply means create an empty constructor in model classes so that java can use it to create an instance.
 		}
 	-
 
