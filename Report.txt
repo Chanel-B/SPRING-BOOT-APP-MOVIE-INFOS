@@ -1,0 +1,37 @@
+SPRING BOOT APP 
+Making communication between microservices.
+We have three microservices here which are : 
+	{
+		1) Movie Info,
+		2) Movie Catalog,
+		3) Rating Data.
+	}
+
+MOVIE INFO, CATALOG
+
+DAY 1 : 
+	-Created all microservices by generating them from spring initialitz,
+	-Created the model and controller for each of them,
+	-Upload them to Github.
+
+DAY 2 : 	
+	-Create comunication between them,
+		{
+			*HOW TO MAKE A REST CALL FROM YOUR CODE ?
+				1) Calling REST APIs programmatically
+				2) Using a REST client library
+				3) Spring Boot comes with a client already in your classpath- RestTemplate.
+			
+			NB : Spring boot comes with a client call RestTemplate and this is what we use in making APIs calls
+
+			*WHAT IS AN API ? 
+				-An application programming interface, or API 
+				This allows services and products to communicate with each other and leverage each other’s data and functionality through a documented interface. Developers don't need to know how an API is implemented;
+		}
+	-
+
+
+
+
+
+
